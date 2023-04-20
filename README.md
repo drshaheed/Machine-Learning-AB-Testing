@@ -171,30 +171,3 @@ We can also see the term coefficient for Experiment is -17.6 indicating as decre
 3.8.2 Helper Functions
 3.8.3 Decision Trees
 
-Key Points:
-
-Our new model has roughly the same accuracy to +/-19 enrollments (MAE) as the linear regression model.
-
-Experiment shows up towards the bottom of the tree. The rules indicate a when Experiment >= 0.5, there is a drop in enrollments.
-Libraries Used
-
-R Studio R Studio R Studio R Studio R Studio R Studio R Studio
-Installation
-
-    Install randomForest using pip command: install.packages("randomForest")
-    Install caret using pip command: install.packages("caret")
-    Install mlr using pip command: install.packages("mlr")
-    Install MASS using pip command: install.packages("MASS")
-
-How to run?
-
-R Studio
-Project Reports
-
-report
-
-    Download for the report.
-
-Useful Links
-
-    Why Term Frequency is better than TF-IDF for text classification
